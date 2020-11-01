@@ -1,3 +1,0 @@
-Import file .fbx 
-Tạo 2 màn hình -> Chuyển sang Dope Sheet -> Trong đó, chọn Action Editor -> Tạo Action (+ bên phải góc màn hình 2) 
--> Gõ tên animation cần lưu -> Keying -> Location & Rotation -> Chọn Pose Mode (Lưu ý: Trong Scene Collection chọn skeleton thì mới có lựa chọn Pose Mode) -> A+I
